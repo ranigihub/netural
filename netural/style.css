@@ -1,0 +1,60 @@
+.header{
+    height: auto;
+    background-image: url(./images/bgone.png);
+    background-size: cover;
+
+}
+  .nav-item .nav-link{
+    color: black;
+    font-weight: 700px;
+}
+.navbar-brand{
+  color: #6c757d;;
+    font-size: 2rem;
+    font-weight: 700px;
+}
+.header .py-5{
+    width: 80%;
+    font-size: 70px;
+    font-weight: 700px;
+    color:black;
+}
+.btn1{
+    background-color: rgb(248, 26, 92);
+    width: 200px;
+    font-size: 20px;
+    border-radius: 15px;
+   color: white;
+}
+.card:hover{
+    box-shadow: -1px -2px 8px 2px rgba(0,0,0,0.75);
+    transition: 0.5s;
+}
+.frute_section .col-lg-4{
+    box-shadow: 10px 10px 5px 0px rgba(232,177,232,1);
+}
+.header-two{
+    height: auto;
+    background-image: url(./images/hedertwo.png);
+    background-size: cover;
+
+} 
+.header-two .py-5{
+    width: 80%;
+    font-size: 70px;
+    font-weight: 700px;
+    color: black;
+}
+.footer{
+    background-color: black;
+}
+.footer form{
+margin-left:15rem;
+margin-right: 15rem;
+}
+.footer .row p{
+font-size: 18px;
+text-align: left;
+color: gray;
+margin-left: 15px;
+}
